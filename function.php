@@ -5,7 +5,7 @@
 
 
 function audio($stationname) {
-//A stations audio are stored in an array(in future it can be stored in database and fetched from there)
+//A stations audio are stored in an array(in future it can be stored in database and fetched from there))
 
 //stationname => audio
     $details = array(
